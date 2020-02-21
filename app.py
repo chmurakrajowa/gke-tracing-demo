@@ -16,6 +16,8 @@ A sample app demonstrating Stackdriver Trace
 """
 
 
+
+
 import google.auth
 from google.cloud import pubsub_v1
 
